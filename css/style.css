@@ -284,3 +284,10 @@ body {
     border-radius: 10px;
   }
   
+  /* Footer */
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
